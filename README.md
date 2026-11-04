@@ -61,9 +61,7 @@ College decisions deserve more than brochures and rankings. **Beyond Lens** is b
 
 <div align="center">
 
-[![Commit activity](https://github-readme-activity-graph.vercel.app/graph?username=kr-xyriin&theme=react-dark&hide_border=true&area=true&custom_title=Developer%20Activity)](https://github.com/kr-xyriin/beyond-lens/commits/main)
-
-<sub>The activity graph above reflects the GitHub account, not exclusively this repository. Repository-specific activity is available through the commit links and badges above.</sub>
+![Beyond Lens Commit Activity](./assets/commit-activity.svg)
 
 </div>
 

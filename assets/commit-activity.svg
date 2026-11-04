@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="920" height="280" viewBox="0 0 920 280" role="img" aria-label="Beyond Lens commits by month for the last 12 months">
+<rect width="920" height="280" rx="18" fill="#12101e"/>
+<text x="32" y="39" fill="#f5f1ff" font-size="21" font-family="Arial,sans-serif" font-weight="bold">Beyond Lens · Commit activity</text>
+<text x="32" y="61" fill="#b5abc9" font-size="13" font-family="Arial,sans-serif">3 commits on main · 1 contributors · Last 12 months</text>
+
+<line x1="60" y1="225.0" x2="880" y2="225.0" stroke="#39314c" stroke-dasharray="3 6"/>
+<line x1="60" y1="188.8" x2="880" y2="188.8" stroke="#39314c" stroke-dasharray="3 6"/>
+<line x1="60" y1="152.5" x2="880" y2="152.5" stroke="#39314c" stroke-dasharray="3 6"/>
+<line x1="60" y1="116.2" x2="880" y2="116.2" stroke="#39314c" stroke-dasharray="3 6"/>
+<line x1="60" y1="80.0" x2="880" y2="80.0" stroke="#39314c" stroke-dasharray="3 6"/>
+<polygon points="60,225 60.0,225.0 134.5,225.0 209.1,225.0 283.6,225.0 358.2,225.0 432.7,225.0 507.3,225.0 581.8,225.0 656.4,225.0 730.9,225.0 805.5,225.0 880.0,80.0 880,225" fill="#8b5cf6" fill-opacity="0.18"/>
+<polyline points="60.0,225.0 134.5,225.0 209.1,225.0 283.6,225.0 358.2,225.0 432.7,225.0 507.3,225.0 581.8,225.0 656.4,225.0 730.9,225.0 805.5,225.0 880.0,80.0" fill="none" stroke="#aa82ff" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+<circle cx="60.0" cy="225.0" r="4" fill="#c4b5fd"><title>2025-12: 0 commits</title></circle>
+<circle cx="134.5" cy="225.0" r="4" fill="#c4b5fd"><title>2026-01: 0 commits</title></circle>
+<circle cx="209.1" cy="225.0" r="4" fill="#c4b5fd"><title>2026-02: 0 commits</title></circle>
+<circle cx="283.6" cy="225.0" r="4" fill="#c4b5fd"><title>2026-03: 0 commits</title></circle>
+<circle cx="358.2" cy="225.0" r="4" fill="#c4b5fd"><title>2026-04: 0 commits</title></circle>
+<circle cx="432.7" cy="225.0" r="4" fill="#c4b5fd"><title>2026-05: 0 commits</title></circle>
+<circle cx="507.3" cy="225.0" r="4" fill="#c4b5fd"><title>2026-06: 0 commits</title></circle>
+<circle cx="581.8" cy="225.0" r="4" fill="#c4b5fd"><title>2026-07: 0 commits</title></circle>
+<circle cx="656.4" cy="225.0" r="4" fill="#c4b5fd"><title>2026-08: 0 commits</title></circle>
+<circle cx="730.9" cy="225.0" r="4" fill="#c4b5fd"><title>2026-09: 0 commits</title></circle>
+<circle cx="805.5" cy="225.0" r="4" fill="#c4b5fd"><title>2026-10: 0 commits</title></circle>
+<circle cx="880.0" cy="80.0" r="4" fill="#c4b5fd"><title>2026-11: 3 commits</title></circle>
+<text x="60.0" y="252" text-anchor="middle" fill="#b5abc9" font-size="12" font-family="Arial,sans-serif">Dec 25</text>
+<text x="209.1" y="252" text-anchor="middle" fill="#b5abc9" font-size="12" font-family="Arial,sans-serif">Feb 26</text>
+<text x="358.2" y="252" text-anchor="middle" fill="#b5abc9" font-size="12" font-family="Arial,sans-serif">Apr 26</text>
+<text x="507.3" y="252" text-anchor="middle" fill="#b5abc9" font-size="12" font-family="Arial,sans-serif">Jun 26</text>
+<text x="656.4" y="252" text-anchor="middle" fill="#b5abc9" font-size="12" font-family="Arial,sans-serif">Aug 26</text>
+<text x="880.0" y="252" text-anchor="middle" fill="#b5abc9" font-size="12" font-family="Arial,sans-serif">Nov 26</text>
+</svg>

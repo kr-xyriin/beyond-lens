@@ -1,0 +1,33 @@
+name: Update repository activity graph
+
+on:
+  push:
+    branches: [main]
+  workflow_dispatch:
+  schedule:
+    - cron: '17 3 1 * *'
+
+permissions:
+  contents: write
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout full history
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+      - name: Generate graph
+        run: python3 scripts/generate_stats.py
+      - name: Commit updated graph
+        run: |
+          git add assets/commit-activity.svg
+          if git diff --cached --quiet; then
+            echo "Graph unchanged"
+            exit 0
+          fi
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git commit -m "docs: update repository activity graph [skip ci]"
+          git push
