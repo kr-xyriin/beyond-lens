@@ -1,0 +1,7 @@
+/* React migration adjustments. Approved clear-glass overrides remain in original.css. */
+.register,.primary,.secondary{display:inline-flex;align-items:center;justify-content:center;text-decoration:none}
+.side-symbol{display:inline-flex;align-items:center;justify-content:center;width:19px;flex:none;color:var(--accent);font-size:19px}
+.sidebar .side-link{cursor:pointer}
+.nav-wrap{isolation:isolate}
+.nav,.sidebar{isolation:isolate}
+@media(prefers-reduced-motion:reduce){.view.active{animation:none}}
