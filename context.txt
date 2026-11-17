@@ -1,0 +1,2533 @@
+
+So i have an idea
+
+i am in upes and what i wanna do is become a meditator between the incoming students who are looking for private colleges and have them have a conversation with a senior who is currently studying in the same college who will tell the incoming juniors about the on ground reality of placements, environment of the college, about the college life itself, night life and all, transport feasibility and other multiple things a student or a parent would worry about before going or sending their ward to the given respective college
+
+we would charge them from 0-500 inr (currently we are discussing the prices) and from that we would also pay the seniors a feasible amount 
+
+the newcomers will have a time period of up to 15mins per senior and money will be charged 
+if they still have questions or doubts and they wanna continue the convo then they would have to pay some exttra amount too
+
+this model is basically based on the idea that a certain student who has just passed 12th doesn't knows which college to take and how to know the exact reality of that college or whether they should actually enroll into that college or not
+
+a normal person pays around 13k - 15k in total for the number of college exam forms they fill and in comparison to that amount even 500 looks small so a newcomer or their parent shouldn't have any problem in doing so
+
+so firstly tell me if this model is broken or will this actually work
+…
+Yes — this can work. The underlying problem is real, and the idea is stronger than it might initially sound.
+
+But the model in its current form has a few structural problems that could kill it if you simply build “pay ₹500 → talk to a senior for 15 minutes.” The opportunity is less about selling calls and more about creating a trusted student-to-student college decision platform.
+
+Here’s how I’d evaluate it.
+
+The problem you're solving is legitimate
+A Class 12 student considering a private college is making a decision that can easily involve ₹10–30+ lakh over 3–4 years, yet their information usually comes from college websites, admissions counselors, YouTube videos, Reddit/Quora, education portals, friends-of-friends, and random Instagram/LinkedIn DMs.
+
+All of those have problems. College marketing is obviously biased. YouTube creators may have incentives. Reddit can be anonymous/outdated. LinkedIn requires cold-DMing strangers. And education portals often optimize around leads rather than brutally accurate student experience.
+
+Your pitch is essentially:
+
+“Before spending lakhs on a college, spend a few hundred rupees talking privately to someone who actually studies there.”
+
+That's intuitive.
+
+And importantly, you're not selling information that technically can't be found elsewhere. You're selling access + verification + convenience + personalization + trust.
+
+That distinction matters.
+
+Where I think your current model breaks
+1. ₹500 for the very first call might be too high
+Your logic that students already spend ₹13–15k on forms makes economic sense, but consumer psychology doesn't always work that way.
+
+A parent might happily pay ₹2,000 for an application but think:
+
+“Why should I pay ₹500 to talk to some random student when I can message someone on LinkedIn?”
+
+So I wouldn't start by testing whether people will pay ₹500.
+
+I'd test ₹99 / ₹149 / ₹199.
+
+For example:
+
+15-minute verified senior call — ₹149
+
+Senior gets ₹80–100.
+
+Platform keeps ₹49–69.
+
+Once trust is established, you could introduce more expensive options.
+
+The objective initially isn't maximizing revenue per call. It's proving:
+
+Will strangers actually pay to speak to verified seniors?
+
+That's your first major hypothesis.
+
+2. Your biggest competitor isn't another startup
+It's free.
+
+LinkedIn.
+
+Reddit.
+
+WhatsApp groups.
+
+Telegram.
+
+College Discord servers.
+
+YouTube.
+
+Friends-of-friends.
+
+So your product needs to be dramatically easier.
+
+Imagine someone searching:
+
+UPES → BTech CSE → 3rd-year student → Hostel resident → ₹149 → Talk now
+
+And they see:
+
+Arjun
+BTech CSE — 3rd Year
+Lives in campus hostel
+From Delhi
+37 conversations
+★ 4.8
+
+Can answer about:
+Placements
+Hostel
+Faculty
+Dating/social life
+Clubs
+Dehradun nightlife
+Transport
+Internships
+Actual attendance requirements
+
+Now that's meaningfully better than sending 12 LinkedIn DMs hoping somebody responds.
+
+3. Don't position the seniors as “college advisors”
+This is important.
+
+They aren't professional admissions consultants.
+
+They're giving first-hand experiences.
+
+You want something closer to:
+
+“Here's what my experience studying here has actually been.”
+
+rather than:
+
+“You should definitely take admission here.”
+
+Otherwise you'll eventually have problems with misinformation, liability, angry colleges, biased students, and possibly students making claims about placement statistics that aren't accurate.
+
+The platform should distinguish between personal experience, opinion, and verified factual information.
+
+4. Trust will determine whether this company lives or dies
+Imagine I'm a parent.
+
+I'm about to pay some student online.
+
+My first questions are:
+
+Is this person actually studying at UPES?
+
+Has the college paid them?
+
+Are they telling me the truth?
+
+Are they just trying to earn ₹100?
+
+So I'd make verification central to the product.
+
+Something like:
+
+✓ College identity verified
+
+using student ID + university email where possible.
+
+And potentially let users filter seniors.
+
+For example:
+
+College: UPES
+Course: CSE
+Year: 3rd
+Gender: optional preference
+Hostel: Yes
+Home state: Delhi
+Scholarship: Yes
+Placement/internship experience: Yes
+
+That last-mile matching could become extremely valuable.
+
+A parent asking about women's hostel safety may want to speak with a female student living in that hostel.
+
+Someone choosing CSE may specifically want a third/fourth-year CSE student.
+
+Someone from Assam may want to ask another student from Northeast India about travel and adjustment.
+
+That's where the platform becomes substantially better than Google.
+
+There's another problem: seniors could bypass you
+Suppose I pay ₹149.
+
+You connect me to Rahul.
+
+Rahul says:
+
+“Here's my WhatsApp. Just message me.”
+
+You've now lost the customer.
+
+Therefore I wouldn't initially expose phone numbers.
+
+The conversation should eventually happen inside your platform, or through some masked calling/video infrastructure.
+
+Then:
+
+15 minutes → timer expires → “Continue for another 15 minutes for ₹99.”
+
+That's a much cleaner model.
+
+Your marketplace has a chicken-and-egg problem
+Students won't come if there aren't seniors.
+
+Seniors won't bother joining if there aren't students.
+
+But you have one massive advantage:
+
+You're currently inside a university.
+
+That makes UPES the perfect sandbox.
+
+Don't start with:
+
+“We'll cover every private college in India.”
+
+Start with:
+
+UPES.
+Recruit perhaps:
+
+20–30 seniors.
+
+Across:
+
+CSE
+Law
+Design
+Business
+Core engineering
+Hostellers
+Day scholars
+Different years
+
+Then find actual prospective UPES students.
+
+You don't even need an app.
+
+Your MVP could literally be:
+
+Landing page → choose course → choose senior → choose time → pay → Google Meet
+
+Run the operations manually.
+
+If 100 strangers pay, then build technology.
+
+There's potentially a much bigger business hiding here
+Initially you think you're building:
+
+“Pay to talk to a senior.”
+
+But imagine after thousands of conversations you learn that students repeatedly ask:
+
+Are placements actually good?
+Is 75% attendance strict?
+How's the hostel food?
+How easy is it to leave campus?
+Are there good internships?
+What's the gender ratio?
+How is nightlife?
+Are professors helpful?
+What are hidden expenses?
+Is the advertised average package misleading?
+Is upgrading from College A to College B worth ₹6 lakh?
+
+You now possess something much more interesting:
+
+structured, ground-level intelligence about Indian colleges.
+Eventually a college page could contain:
+
+Official placement information
+
+versus
+
+What 63 verified students reported
+
+and perhaps aggregated metrics like:
+
+Student satisfaction: 7.8/10
+Hostel: 6.4/10
+Campus life: 8.3/10
+Faculty: 7.1/10
+Internships: 6.8/10
+Value for money: 7.3/10
+Nightlife/accessibility: 8.1/10
+
+Now you've moved from Clarity.fm for college students toward something closer to a Glassdoor for universities + paid access to insiders.
+
+That is considerably more defensible.
+
+The economics could work
+Suppose eventually:
+
+Call price = ₹199
+
+Senior payout = ₹120
+
+Payment/platform/operational cost = ~₹15
+
+You retain ≈ ₹64.
+
+That's not an amazing business by itself.
+
+10,000 calls × ₹64 = ₹6.4 lakh contribution.
+
+But now suppose students frequently purchase multiple calls.
+
+That's much more interesting.
+
+A student choosing between:
+
+UPES
+Manipal
+VIT
+SRM
+Thapar
+
+might buy a package:
+
+“College Decision Pack — ₹699”
+Talk to one verified senior from 4 colleges.
+
+That's an extremely compelling product because now you're helping them make the actual decision rather than selling minutes.
+
+Parents might actually be your strongest customer
+Don't assume your buyer is only the student.
+
+Imagine the messaging:
+
+Your child will spend ₹15–25 lakh on college.
+
+Before paying the admission fee, speak privately with a verified student who already studies there.
+
+₹199 suddenly feels tiny.
+
+And parents ask very different questions:
+
+Safety.
+
+Drugs/alcohol culture.
+
+Hostel supervision.
+
+Food.
+
+Medical facilities.
+
+Transportation.
+
+Attendance.
+
+Placement reality.
+
+Hidden costs.
+
+Distance from airports/railway stations.
+
+Whether their child actually needs a laptop/car/bike.
+
+Those questions are highly valuable.
+
+One thing I would NOT do
+Don't accept money from colleges in exchange for manipulating recommendations.
+
+That destroys the entire thing.
+
+If users ever start thinking:
+
+“These students are secretly being paid by universities to promote them,”
+
+your fundamental value proposition disappears.
+
+Your strongest long-term asset would be independence.
+
+You could eventually charge colleges for analytics or clearly disclosed services, but the student opinions themselves need to remain independent.
+
+So is the idea broken?
+No.
+
+I'd rate the underlying problem around 8/10.
+
+The initial business model perhaps 6/10.
+
+The potential platform, if executed properly, 8–9/10.
+
+But there's one question that matters far more than anything we've discussed:
+
+Will prospective students actually pay ₹100–₹300 to talk to a verified senior?
+
+Don't spend six months building an app to discover the answer.
+
+Get 10 UPES seniors, make a simple landing page, find 50 prospective UPES students, and try selling the call.
+
+If 0/50 pay, you've learned something important.
+
+If 3/50 pay, investigate.
+
+If 10+/50 pay, you have something worth pursuing aggressively.
+
+And if people start asking:
+
+“Can you connect me to someone from Manipal too?”
+
+that's an extremely strong signal that the marketplace wants to expand.
+
+Your next move should be testing this at UPES before building anything substantial. The interesting part now is designing that experiment: pricing, senior payout, how you acquire the first 50 prospective students, what questions you ask after the call, and what numbers would tell us to continue versus kill the idea.
+
+second major thing is
+whether the respective college will be able to sue us or not as we would technically be defaming them or promoting them depending on the actuall reality and same with hostels or flats
+Yes, they can sue or send a legal notice. That does not mean they would automatically win.
+
+In India, defamation law can apply to companies and associations, not just individuals. Section 356 of the Bharatiya Nyaya Sanhita specifically says an imputation concerning a company or association can amount to defamation. But the same provision also contains important exceptions, including truth when publication is for the public good and certain good-faith opinions. 
+
+So your goal should not be, “How do we make ourselves impossible to sue?” You can't. Your goal is:
+
+How do we build this so that what happens on the platform is genuine first-hand student experience, rather than the platform itself making defamatory accusations?
+
+The difference is huge
+A senior saying:
+
+“In my experience, hostel food was pretty bad and I stopped using the mess after first year.”
+
+is very different from:
+
+“XYZ Hostel scams every student and steals their money.”
+
+Likewise:
+
+“I personally found placement opportunities weaker than I expected.”
+
+is safer than:
+
+“The university lies about all its placements.”
+
+The second type makes a concrete allegation of dishonest conduct. You'd want evidence before allowing something like that to be publicly published.
+
+And this isn't just theoretical: Indian courts recognize both reputation and free-expression interests, including the significance of truth and fair comment in defamation disputes. 
+
+I would design your startup around five protections
+1. Make it clear that seniors speak for themselves, not for your company.
+
+Every profile/call should prominently say something like:
+
+“Views expressed are the individual student's personal experiences and opinions. They do not represent the university, hostel, property owner, or this platform.”
+
+That disclaimer doesn't magically remove liability, but it helps establish what your service actually is.
+
+2. Create strict rules for seniors.
+
+They should be allowed to discuss their experience freely, including negative experiences, but prohibited from knowingly making false factual accusations.
+
+For example:
+
+“Professor quality wasn't great for me.” → generally fine as opinion.
+
+“Most students in my batch didn't receive internships through campus.” → potentially okay if genuinely based on experience.
+
+“The university fabricated its placement statistics.” → serious factual allegation; don't encourage this unless there is strong evidence.
+
+“The hostel owner is a criminal.” → major red flag.
+
+“The area has a terrible drug problem.” → potentially defamatory/dangerous if asserted as fact without evidence.
+
+This becomes part of the senior's Terms of Service.
+
+3. Don't turn sensational statements into your own marketing.
+
+This is where I think you could accidentally increase your risk substantially.
+
+Suppose a senior tells someone privately:
+
+“My experience with placements wasn't good.”
+
+That's one thing.
+
+Now imagine your Instagram account publishes:
+
+🚨 “UPES PLACEMENTS ARE TERRIBLE — CURRENT STUDENT EXPOSES THE TRUTH”
+
+Now your company is publishing and amplifying the claim.
+
+Very different risk profile.
+
+Your marketing should be:
+
+“Talk to verified UPES students about their experiences with placements.”
+
+Not:
+
+“Find out what UPES doesn't want you to know.”
+
+I would stay miles away from “exposed”, “scam”, “fraud”, “fake placements”, “college lies”, etc. unless you're prepared to operate like an investigative publication with evidence and legal review.
+
+Private calls are actually helpful for your model
+Your original concept is safer than building a giant public review wall.
+
+If a verified senior privately tells a prospective student:
+
+“I pay ₹1.6 lakh for my hostel and I personally don't think it's worth it.”
+
+that's materially different operationally from you publishing:
+
+XYZ Hostel — 2.1/10 — overpriced and unsafe
+
+for thousands of people to see.
+
+It does not mean private speech can never create legal problems, but the more your company edits, ranks, summarizes, headlines and publicly broadcasts accusations, the more you should think of yourself as a publisher rather than merely a connection platform.
+
+India's IT Act contains a Section 79 safe-harbour framework for certain intermediaries hosting/transmitting third-party information, subject to conditions and due diligence. 
+ The IT Rules also impose intermediary obligations, and MeitY currently publishes the updated rules. 
+
+But do not build your company assuming “Section 79 means we're protected.” Whether your exact marketplace qualifies and how the protection applies will depend on how you operate it. A startup lawyer should review this before launch.
+
+Hostels and flats work essentially the same way
+And this might become a really interesting part of the business.
+
+A student could answer:
+
+“I stayed in ABC Residency for eight months. Water cuts happened fairly often when I was there.”
+
+That's useful firsthand information.
+
+But:
+
+“ABC Residency intentionally cheats tenants out of their deposits.”
+
+is an allegation of wrongdoing.
+
+You could create a simple internal rule:
+
+Experience → allowed
+“I didn't like…”
+
+“In my experience…”
+
+“When I stayed there…”
+
+“I paid…”
+
+“The commute took me…”
+
+“The food I received…”
+
+“My security deposit took three months to come back…”
+
+Serious factual allegation → evidence/moderation required
+“They commit fraud.”
+
+“They bribe officials.”
+
+“They fake placements.”
+
+“They steal deposits.”
+
+“The owner sexually harasses tenants.”
+
+“They sell drugs.”
+
+“They falsify documents.”
+
+You don't want some angry student destroying somebody's reputation through your platform because of a personal dispute.
+
+There's another legal issue you should think about that isn't defamation:
+
+College logos and branding
+You absolutely need to make it obvious that you are not officially affiliated with the university unless you actually are.
+
+Using the words “UPES”, “Manipal”, “VIT”, etc. to identify what college a student attends is one thing. Designing your page using their branding/logos in a way that makes students think:
+
+“This is an official UPES service”
+
+creates a different problem.
+
+The Trade Marks Act covers commercial use that can cause confusion or create an apparent association with a registered trademark. 
+
+So your UI should say something like:
+
+Students from UPES
+
+rather than:
+
+UPES Student Advisory — Official College Insights
+
+and have a clear:
+
+“Independent platform. Not affiliated with or endorsed by UPES.”
+
+There's also the reverse situation: positive reviews
+Suppose a senior says:
+
+“Manipal was genuinely the best decision I made.”
+
+No issue merely because it's positive.
+
+But suppose Manipal secretly gives your company ₹5 lakh and suddenly every prospective student sees positive Manipal seniors first.
+
+Now you've potentially crossed from an independent marketplace into advertising/endorsement territory.
+
+India's Consumer Protection Act contains rules around misleading advertisements and endorsements. 
+
+So if you ever take money from colleges, hostels, PGs or landlords:
+
+disclose it extremely clearly.
+
+I actually think your earliest version should accept zero money from colleges.
+
+Your pitch becomes:
+
+We work for the student, not the university.
+
+That could become one of your strongest brand attributes.
+
+Here's the structure I'd probably use
+Your company does not say:
+
+“UPES has poor placements.”
+
+Your company says:
+
+“Speak with verified UPES students about their placement experience.”
+
+The student says:
+
+“In my batch, this is what I personally saw.”
+
+Your company verifies:
+
+✓ Student identity
+✓ College
+✓ Course
+✓ Graduation year
+
+But does not certify:
+
+✓ Everything this person says is objectively true.
+
+That distinction should appear in your Terms.
+
+And I would have three layers:
+
+Private conversations: relatively open discussion of genuine experiences.
+
+Public reviews: moderated more aggressively.
+
+Platform-generated rankings/statistics: only based on defined methodology and preferably aggregated data.
+
+That third category deserves particular care.
+
+If you publish:
+
+“UPES placement experience: 6.3/10 based on 483 verified UPES students”
+
+that's defensible in a completely different way than arbitrarily publishing:
+
+“UPES placements: BAD.”
+
+You can explain exactly where the number came from.
+
+One issue you shouldn't underestimate
+Even when you're legally right, legal notices cost money to deal with.
+
+Imagine your startup becomes popular.
+
+A hostel owner doesn't like that 17 students gave him poor reviews.
+
+He sends:
+
+CEASE AND DESIST — ₹1 CRORE DEFAMATION CLAIM
+
+Even if the claim is weak, you now need a lawyer.
+
+So you need operational legal defence, not just theoretical legal defence.
+
+Before launching publicly, I'd spend some money with a good Indian startup/technology lawyer and have them prepare/review:
+
+Terms of Service for users
+Senior/mentor agreement
+Content/review policy
+Privacy policy
+Disclaimer/non-affiliation language
+Complaint and takedown process
+Rules around call recording, if you ever record calls
+Trademark/college-name usage
+Intermediary/IT Rules compliance
+That's probably a better use of your early money than building a polished app.
+
+And one particularly important rule:
+Don't secretly record the conversations just because you want “quality control.”
+
+If you later decide calls should be recorded/transcribed, get proper legal advice and explicit consent from both sides first. There are privacy/data-protection implications in addition to defamation.
+
+So I wouldn't kill the idea because of this risk.
+
+I'd actually modify your core philosophy to:
+
+We don't rate colleges. We enable prospective students to speak with verified people currently living that experience.
+
+Then later, once you have sufficient verified data, you can carefully introduce aggregated college intelligence.
+
+That model is much harder for a college to credibly characterize as “this company exists to defame us.”
+
+But yes: before launching beyond a tiny UPES pilot, I'd have an Indian lawyer examine the exact product flow. With this business, ₹20–50k spent correctly on legal structure early could potentially save you an enormous headache later.
+
+I can also map out a “legally safer version” of the entire product — what seniors can/cannot say, disclaimers, complaint handling, whether to record calls, review architecture, and what your website should say about colleges — because I think that should directly influence how you build the MVP.
+
+I can also map out a “legally safer version” of the entire product — what seniors can/cannot say, disclaimers, complaint handling, whether to record calls, review architecture, and what your website should say about colleges — because I think that should directly influence how you build the MVP.
+do it
+and while doing create an actual map about the startup
+Below is a legally safer startup map for your idea.
+
+I’ll call the startup temporarily:
+
+CollegeReality / SeniorConnect
+Core positioning:
+
+An independent platform where prospective students and parents can speak with verified current students about their personal college experience.
+
+Not:
+
+“Expose colleges.”
+“Find out which college is fake.”
+“UPES real truth exposed.”
+“We rate colleges honestly.”
+
+That difference matters legally and strategically.
+
+1. The safest version of the business model
+The platform should not say “this college is good/bad”
+Your company should say:
+
+“Talk to verified students currently studying there.”
+
+The senior should say:
+
+“In my experience…”
+
+This makes the platform a connection + experience-sharing service, not a defamation/media company.
+
+In India, defamation can apply to imputations about a company or association, so universities, hostels, PGs, and property businesses can potentially claim reputation harm. But defamation law also recognizes exceptions like truth for public good and good-faith opinions in certain contexts. Your platform should be designed around genuine experience, good faith, and careful wording. 
+
+Your safe positioning
+Allowed brand message:
+
+“Before choosing a college, speak to someone who actually studies there.”
+
+Avoid:
+
+“Know the dark truth of private colleges.”
+
+Allowed:
+
+“Ask about placements, hostels, faculty, transport, campus life, expenses, and student experience.”
+
+Avoid:
+
+“Find out which colleges are lying about placements.”
+
+2. Startup map: how the whole thing should work
+PROSPECTIVE STUDENT / PARENT
+        |
+        v
+Landing Page
+"Talk to verified current students before choosing a college"
+        |
+        v
+Choose College
+UPES / VIT / SRM / Manipal / Amity / etc.
+        |
+        v
+Choose Course + Concern
+CSE / Law / Design / MBA / Hostel / Placements / Safety / Transport
+        |
+        v
+See Verified Seniors
+Name, course, year, hostel/day scholar, rating, topics they can discuss
+        |
+        v
+Book 15-Min Call
+₹99 / ₹149 / ₹199 / ₹299 / ₹499 depending on stage
+        |
+        v
+Platform Holds Payment
+Senior gets paid after successful call
+        |
+        v
+Call Happens Inside Platform / Masked Meet Link
+No direct phone number sharing initially
+        |
+        v
+Post-Call Feedback
+Was the senior helpful?
+Was anything misleading/abusive?
+Would you recommend this call?
+        |
+        v
+Data Layer
+Aggregated anonymous insights, not wild claims
+        |
+        v
+Future Product
+College comparison packs, parent packs, hostel insight packs
+Your MVP should not begin with a giant public review website.
+
+Your MVP should begin with private paid conversations with verified seniors.
+
+3. Legal safety architecture
+Think of the product in three layers.
+
+Layer 1: Private Calls
+Lowest public defamation risk
+Senior shares personal experience directly with buyer
+
+Layer 2: Public Profiles + Reviews
+Medium risk
+Needs moderation and strict rules
+
+Layer 3: Platform Ratings / Rankings / Reports
+Highest risk
+Only do this later using aggregated verified data
+Start with Layer 1 only.
+
+Do not immediately launch:
+
+public college ratings
+hostel rankings
+“worst colleges in India” lists
+“real placement truth” posts
+anonymous review walls
+viral reels exposing colleges
+That may get attention, but it also increases legal risk.
+
+4. What seniors should be allowed to say
+You need a Senior Code of Conduct.
+
+Safe category: personal experience
+These are generally safer:
+
+“In my experience, the faculty quality varies a lot by department.”
+
+“I personally did not find the hostel food worth the money.”
+
+“When I stayed there, transport from campus to city was sometimes inconvenient.”
+
+“From what I personally saw, many students relied on off-campus internships.”
+
+“I am not satisfied with the placement support I received.”
+
+“My monthly expenses were around ₹12,000–₹18,000 apart from fees.”
+
+“The campus life is good if you join clubs, but otherwise it can feel isolated.”
+
+These are framed as experience or opinion.
+
+That is exactly what your platform should encourage.
+
+5. What seniors should not casually say
+These are dangerous unless backed by strong evidence and reviewed:
+
+“The college fakes placements.”
+
+“The university is a scam.”
+
+“The hostel owner steals deposits.”
+
+“The placement cell lies to parents.”
+
+“Drugs are sold inside the campus.”
+
+“The college bribes ranking agencies.”
+
+“The management is corrupt.”
+
+“This professor harasses students.”
+
+“This PG is unsafe for women.”
+
+These are serious factual accusations. Some may be true in some cases, but your platform should not allow people to casually throw them around without evidence.
+
+Your rule should be:
+
+Personal experience is allowed. Serious allegations require evidence and moderation.
+
+6. Senior training script
+Before a senior starts earning, they should complete a 10-minute onboarding.
+
+Teach them this formula:
+
+Bad:
+"UPES placements are fake."
+
+Better:
+"I cannot verify the official placement numbers. From my personal experience in my department, placement support was not as strong as I expected."
+
+Bad:
+"That hostel steals deposits."
+
+Better:
+"When I left, my security deposit was delayed by around two months. I had to follow up multiple times."
+
+Bad:
+"The college is unsafe."
+
+Better:
+"I personally felt campus security was decent, but late-night transport outside campus can be inconvenient."
+Your seniors need to understand:
+
+Speak from direct experience. Avoid pretending to know everything.
+
+This actually makes the platform more trustworthy too.
+
+7. Disclaimers you should use
+Website footer disclaimer
+Independent Platform Disclaimer:
+CollegeReality is an independent student-experience platform. We are not affiliated with, endorsed by, or officially connected to any college, university, hostel, PG, landlord, coaching institute, or education consultancy listed on this platform. College and hostel names are used only for identification and discovery purposes.
+
+Before-call disclaimer
+The senior you are speaking with is sharing their personal experience and opinion. Their views do not represent the university, hostel, property owner, or this platform. You should verify important facts such as fees, placements, scholarships, admission criteria, hostel rules, and refund policies from official sources before making a final decision.
+
+Senior disclaimer
+I agree to share only my genuine personal experience. I will not knowingly make false, defamatory, misleading, abusive, or unsupported allegations about any institution, person, hostel, PG, landlord, or company.
+
+Buyer disclaimer
+I understand that this call is for informational purposes only and does not constitute official admission, legal, financial, or career advice.
+
+These disclaimers won’t make you lawsuit-proof, but they reduce confusion about what your platform is doing.
+
+8. Non-affiliation and trademark safety
+You can use college names to identify the college, but do not make your platform look official.
+
+The Trade Marks Act can become relevant if your branding causes confusion or suggests association/endorsement. So you should avoid using college logos, official colors, crests, taglines, or “official” style branding unless you have permission. 
+
+Safer page title
+“Talk to verified students from UPES”
+
+Risky page title
+“UPES Official Student Advisory Portal”
+
+Safer tagline
+“Independent platform. Not affiliated with UPES.”
+
+Risky tagline
+“UPES admission guidance by insiders”
+
+Also avoid buying domains like:
+
+upesreview.com
+vittruth.com
+manipalplacements.in
+
+Instead use a neutral brand:
+
+collegereality.in
+seniorconnect.in
+campusclarity.in
+admitwise.in
+
+9. Complaint and takedown system
+You need a formal complaint process from day one.
+
+Not because you should remove everything colleges dislike, but because you need to show responsible operation.
+
+India’s IT Act Section 79 provides a safe-harbour framework for intermediaries if they satisfy conditions such as due diligence; the IT Rules 2021 also require intermediaries to publish user rules, privacy policy, and a grievance mechanism. 
+
+Complaint flow
+College / Hostel / User files complaint
+        |
+        v
+Platform acknowledges complaint
+        |
+        v
+Classify complaint:
+1. Clear abuse/spam/threat
+2. Personal opinion
+3. Serious factual allegation
+4. Privacy issue
+5. Trademark/impersonation issue
+        |
+        v
+Action:
+- Keep content
+- Ask senior for clarification
+- Temporarily hide public review
+- Remove content
+- Preserve records
+- Escalate to lawyer
+Complaint email
+Use something like:
+
+grievance@yourdomain.in
+
+Complaint form fields
+Name of complainant
+Organization, if any
+Contact email
+Exact content being complained about
+Reason for complaint
+Evidence or clarification
+Whether they claim it is false, private, abusive, trademark misuse, or impersonation
+10. Call recording: do not start with recording
+For MVP, I would not record calls.
+
+Recording creates extra privacy and data-protection issues. India’s Digital Personal Data Protection Act, 2023 is based around obligations for processing digital personal data, including consent and notice requirements. If you record/transcribe calls, you are collecting much more sensitive operational data than simple booking/payment details. 
+
+MVP approach
+No call recording.
+Use post-call feedback.
+Allow users to report a senior.
+Keep transaction logs, booking time, senior identity, and user feedback.
+If a dispute happens, ask both sides for written explanation.
+Later stage
+You may add recording only if:
+
+both sides explicitly consent before the call
+you clearly explain why recording exists
+you define retention period
+you define who can access it
+you allow complaint review
+a lawyer reviews the policy
+Do not secretly record.
+
+11. Public reviews architecture
+Do not allow unmoderated public reviews in the beginning.
+
+A dangerous public review system:
+
+Anonymous user:
+"XYZ College is a scam. Don't go."
+A safer public review system:
+
+Verified Senior:
+Course: BTech CSE
+Year: 3rd year
+Experience Tags:
+- Placement support: 3/5
+- Hostel food: 2/5
+- Campus life: 4/5
+- Transport: 3/5
+
+Written comment:
+"In my personal experience, placement support in my department was below my expectations, but campus life and clubs were good."
+Use structured ratings, not inflammatory open text
+Ask seniors to rate:
+
+faculty support
+placement support
+internship support
+hostel food
+hostel rules
+safety perception
+city access
+transport
+campus life
+value for money
+hidden expenses
+But display it as:
+
+“Based on verified student responses.”
+
+Not:
+
+“The truth.”
+
+12. What the website should say
+Homepage headline
+Talk to verified seniors before choosing your college.
+
+Subheadline
+Get first-hand student perspectives on placements, hostels, campus life, transport, expenses, and daily reality before making a major admission decision.
+
+CTA
+Book a 15-minute call
+
+Trust section
+Verified college identity
+Course/year filters
+Parent-friendly conversations
+Independent platform
+No official college affiliation
+Personal experience, not paid promotion
+
+Avoid these words
+Do not use:
+
+exposed
+scam
+fraud
+fake
+truth bomb
+dark reality
+college lies
+worst college
+placement scam
+hostel scam
+These words may convert in the short term but increase legal and reputational risk.
+
+13. The MVP map
+Here is the startup’s actual MVP roadmap.
+
+PHASE 0 — Legal + Positioning Setup
+Duration: Before launch
+
+- Choose neutral brand name
+- Create basic Terms of Service
+- Create Senior Code of Conduct
+- Create Privacy Policy
+- Create Non-affiliation Disclaimer
+- Create Complaint Form
+- Avoid college logos
+- Avoid public ratings initially
+PHASE 1 — UPES Pilot
+Goal: Prove people will pay
+
+Supply:
+- 20 verified UPES seniors
+- Cover CSE, Law, Design, Business, Core Engineering
+- Include hostellers + day scholars
+- Include male + female seniors if possible
+- Include different home states
+
+Demand:
+- Prospective UPES students
+- Parents
+- Students confused between UPES and another private college
+
+Product:
+- Landing page
+- Senior cards
+- WhatsApp/Calendly booking manually
+- UPI payment
+- Google Meet link
+- 15-minute call
+- Feedback form
+PHASE 2 — Paid Validation
+Goal: Test pricing
+
+Run 4 price points:
+- ₹99
+- ₹149
+- ₹199
+- ₹299
+
+Track:
+- Landing page visits
+- Bookings
+- Payment completion
+- No-show rate
+- Senior rating
+- Refund requests
+- Repeat calls
+- Parent vs student buyer ratio
+- Most asked topics
+PHASE 3 — Repeatable Product
+Goal: Make the process smoother
+
+Build:
+- senior verification
+- booking slots
+- payment escrow
+- timer
+- senior payout dashboard
+- feedback system
+- complaint system
+- basic admin moderation
+PHASE 4 — Multi-college Expansion
+Goal: Expand only after UPES works
+
+Next colleges:
+- colleges students compare with UPES
+- colleges with high private-fee anxiety
+- colleges where online information is poor
+- colleges with large North Indian applicant pools
+
+Offer:
+- 1 college call: ₹149–₹299
+- 3 college comparison pack: ₹499–₹799
+- parent decision pack: ₹999+
+PHASE 5 — Data Layer
+Goal: Build defensibility
+
+Create anonymous aggregate insights:
+- placement satisfaction
+- hostel satisfaction
+- campus life score
+- expense ranges
+- transport difficulty
+- parent concern index
+- student recommendation score
+
+Do not publish aggressive claims.
+Publish methodology.
+14. Product flow map
+User comes to website
+        |
+        v
+Selects goal:
+"I am considering admission"
+"I am a parent"
+"I want hostel information"
+"I want placement reality"
+"I am comparing colleges"
+        |
+        v
+Selects college/course
+        |
+        v
+Platform recommends seniors
+        |
+        v
+User chooses:
+Basic Call — 15 min
+Extended Call — 30 min
+Comparison Pack — 3 seniors
+Parent Pack — senior + checklist
+        |
+        v
+Payment
+        |
+        v
+Call
+        |
+        v
+Feedback + optional extra call
+        |
+        v
+Senior payout
+        |
+        v
+Anonymous insights stored
+15. Revenue model map
+Single Call
+₹149–₹299
+Best for MVP
+
+Extended Call
+₹99–₹199 extra for another 15 min
+
+College Comparison Pack
+₹499–₹799
+Talk to 3–4 seniors from different colleges
+
+Parent Pack
+₹999–₹1499
+More structured call with checklist
+
+Hostel/PG Reality Pack
+₹199–₹499
+Talk to someone living in that area/hostel
+
+Premium Verified Senior
+₹399–₹699
+Final-year student, placed student, scholarship student, female hostel resident, etc.
+
+Future B2B Analytics
+Only after trust is built
+Must not compromise neutrality
+Best early model:
+
+₹149 call price
+Senior gets ₹80–₹100
+Platform keeps ₹49–₹69
+
+Do not start at ₹500 unless the senior is premium or the user is buying a comparison/parent pack.
+
+16. Senior payout map
+New Senior
+₹70–₹100 per 15-min call
+
+High-rated Senior
+₹120–₹150 per call
+
+Placed Final-Year Senior
+₹150–₹250 per call
+
+Special Category Senior
+Female hostel resident / scholarship holder / international student / branch topper
+₹150–₹300 per call
+You should also have penalties:
+
+no-show = no payout
+false identity = ban
+repeated complaints = suspension
+sharing personal number to bypass platform = warning/ban
+abusive or defamatory conduct = removal
+17. Verification map
+Senior applies
+        |
+        v
+Uploads proof
+- college email
+- student ID
+- fee receipt with sensitive info hidden
+- LMS screenshot
+- LinkedIn cross-check
+        |
+        v
+Manual verification
+        |
+        v
+Profile approved
+        |
+        v
+Senior signs code of conduct
+        |
+        v
+Senior training
+        |
+        v
+Can accept paid calls
+Profile should show:
+
+college
+course
+year
+hostel/day scholar
+home state
+topics they can discuss
+languages
+number of completed calls
+rating
+“Verified current student”
+Avoid showing sensitive documents publicly.
+
+18. Content risk map
+LOW RISK
+Personal experience:
+"I didn't like the hostel food."
+
+MEDIUM RISK
+Generalized opinion:
+"Placements are weak in my department."
+
+HIGH RISK
+Serious accusation:
+"The college fakes placement data."
+
+VERY HIGH RISK
+Specific accusation against identifiable person:
+"The warden takes bribes."
+Your moderation rule:
+
+Low risk: allow
+Medium risk: allow if framed as experience
+High risk: require evidence / reword / restrict public display
+Very high risk: remove or escalate
+19. Parent-specific product
+Parents are probably your best-paying customers.
+
+Parent concerns
+safety
+hostel supervision
+ragging
+alcohol/drug culture
+medical facilities
+attendance strictness
+distance from railway/airport
+hidden expenses
+actual placements
+whether the college environment is serious or too casual
+whether students from outside states adjust well
+Parent call structure
+15-min Parent Call
+
+1. Student background
+2. Course reality
+3. Hostel/safety
+4. Expenses
+5. Placement/internship experience
+6. Final "what I wish I knew before joining"
+Charge more for this:
+
+₹299–₹499
+
+Because parents are not paying for “chat.” They are paying to reduce anxiety before a huge education spend.
+
+20. What to do if a college sends a legal notice
+Do not panic.
+
+Have a process.
+
+Legal notice received
+        |
+        v
+Do not reply emotionally
+        |
+        v
+Save all related records
+        |
+        v
+Identify complained content/call/review/profile
+        |
+        v
+Temporarily restrict public content if needed
+        |
+        v
+Ask senior for explanation/evidence
+        |
+        v
+Consult lawyer
+        |
+        v
+Send measured response
+Never reply like:
+
+“We are exposing your scam college.”
+
+Reply like:
+
+“We are an independent platform facilitating personal student experience conversations. We take complaints seriously and are reviewing the specific content identified.”
+
+This tone matters.
+
+21. Your “legally safer” operating principles
+Use these as company rules:
+
+Rule 1
+We connect people to verified students; we do not officially certify colleges.
+
+Rule 2
+We allow opinions and personal experience, not knowingly false allegations.
+
+Rule 3
+We do not use college logos or imply affiliation.
+
+Rule 4
+We do not accept hidden payments from colleges, hostels, or PGs.
+
+Rule 5
+We disclose sponsored relationships clearly if they ever exist.
+
+Endorsement and advertising rules in India are increasingly focused on disclosure and misleading advertising; if you ever promote a college, hostel, or PG in exchange for money or benefits, disclose it clearly. 
+
+Rule 6
+We do not publish sensational claims for marketing.
+
+Rule 7
+We give colleges/hostels a complaint route, but we do not remove truthful good-faith experiences just because someone dislikes criticism.
+
+Rule 8
+We separate private conversations, public reviews, and platform-generated ratings.
+
+Rule 9
+We collect minimum data necessary.
+
+Rule 10
+We get legal review before public ratings, call recording, or large-scale expansion.
+
+22. The best version of this startup
+The best version is not:
+
+“Pay to gossip with seniors.”
+
+The best version is:
+
+A trusted decision layer for Indian private college admissions.
+
+Your platform helps families answer:
+
+Should I actually take admission here?
+Is the fee worth it?
+What is the daily reality?
+What are the hidden costs?
+What do current students wish they knew earlier?
+Which college is better for my exact situation?
+That can become very valuable.
+
+23. The most dangerous version of this startup
+The dangerous version is:
+
+Instagram page:
+"Private college scams exposed"
+
+Anonymous reviews:
+"XYZ college is fake"
+
+No verification:
+Anyone can post anything
+
+No complaint system:
+No formal takedown process
+
+College logos everywhere:
+Looks official or misleading
+
+Paid college promotion:
+Not disclosed
+
+Call recordings:
+No proper consent
+That version will get attention quickly, but it may also attract legal threats quickly.
+
+24. Final recommended MVP
+For your first 30 days, build this:
+
+Name:
+Neutral brand, not college-specific
+
+Scope:
+Only UPES
+
+Supply:
+20 verified seniors
+
+Product:
+15-minute private calls
+
+Price:
+₹149 test price
+
+Senior payout:
+₹80–₹100
+
+Platform take:
+₹49–₹69
+
+No:
+Public reviews
+College rankings
+Call recording
+College logos
+Sensational marketing
+
+Yes:
+Disclaimers
+Senior code of conduct
+Complaint form
+Verification
+Feedback form
+Parent-specific call option
+Your first success metric:
+
+Can you get 20–50 prospective students/parents to pay for a call?
+
+Your second success metric:
+
+Do they say the call changed or improved their college decision?
+
+Your third success metric:
+
+Do they ask to speak to seniors from other colleges too?
+
+If yes, this is not broken. It is worth building.
+
+But build it as a trust company, not an “expose colleges” company. Trust is the whole product.
+
+alright so as a pre startup and in just an idea phase only
+
+as founders what are we supposed to do as of now
+As founders at the idea stage, your job is not to build an app yet.
+
+Your job right now is to prove three things:
+
+Do people have this problem?
+Will they pay for the solution?
+Can you supply trustworthy seniors repeatedly?
+
+Everything else comes later.
+
+Here’s what you should do now.
+
+1. Define the startup in one clear sentence
+Before anything else, you need a simple explanation.
+
+Use this:
+
+We help students and parents make better private college decisions by connecting them with verified current students for paid 1-on-1 conversations.
+
+Do not describe it as:
+
+“We expose colleges.”
+
+Describe it as:
+
+“We help families verify ground reality before admission.”
+
+That framing is safer, cleaner, and easier to sell.
+
+2. Decide your first tiny market
+Do not start with all colleges.
+
+Start with:
+
+UPES only
+Why?
+
+Because you are inside UPES. You can verify seniors easily. You understand the culture. You can access juniors/prospective students better than an outsider.
+
+Your first goal is not “India expansion.”
+
+Your first goal is:
+
+Can we make 30–50 paid calls happen for UPES prospective students?
+
+If yes, then expand.
+
+3. Split founder roles
+Assume there are 2–4 founders. Divide roles clearly.
+
+Founder 1: Demand
+Responsible for finding prospective students and parents.
+
+Tasks:
+
+Join admission-related WhatsApp/Telegram/Instagram groups.
+Talk to Class 12 students considering UPES.
+Find students confused between UPES, VIT, SRM, Manipal, Amity, etc.
+Run Instagram posts/reels.
+DM students commenting under UPES admission content.
+Talk to coaching centers if possible.
+Founder 2: Supply
+Responsible for recruiting seniors.
+
+Tasks:
+
+Find 20 good UPES seniors.
+Verify their course/year.
+Train them on what to say and what not to say.
+Maintain senior availability.
+Track ratings and complaints.
+Founder 3: Operations
+Responsible for booking and payments.
+
+Tasks:
+
+Maintain Google Sheet.
+Create Calendly/Google Form.
+Collect UPI payments.
+Send Google Meet links.
+Confirm calls.
+Pay seniors.
+Handle refunds/no-shows.
+Founder 4: Product/Brand
+Responsible for landing page and trust.
+
+Tasks:
+
+Create website/Notion page.
+Write copy.
+Design senior cards.
+Build feedback form.
+Create legal disclaimers.
+Track user behavior and conversion.
+If you are only two founders, combine roles:
+
+Founder A: Demand + Brand
+Founder B: Supply + Operations
+
+4. Build the MVP manually
+Do not build an app.
+
+Your MVP can be this simple:
+
+Instagram/WhatsApp/landing page
+        ↓
+Google Form
+        ↓
+Manual senior matching
+        ↓
+UPI payment
+        ↓
+Google Meet call
+        ↓
+Feedback form
+        ↓
+Senior payout
+That is enough.
+
+Your MVP stack:
+
+Google Forms
+Google Sheets
+WhatsApp
+UPI
+Google Meet
+Notion/Carrd/Webflow landing page
+Canva for senior cards
+You can build the first version in one day.
+
+5. Recruit your first 20 seniors
+Do not recruit random people.
+
+You need seniors who are:
+
+articulate
+honest
+not overly bitter
+not blindly promotional
+from different courses
+comfortable speaking to parents
+reliable with time
+willing to follow rules
+Try to cover:
+
+BTech CSE
+Law
+Design
+Business/MBA/BBA
+Aerospace/Mechanical/Core branches
+hostellers
+day scholars
+female students
+final-year students
+placed/internship students
+scholarship students
+Each senior profile should have:
+
+Name
+College
+Course
+Year
+Hostel/day scholar
+Home city/state
+Languages
+Can talk about:
+- placements
+- hostel
+- faculty
+- campus life
+- transport
+- expenses
+- clubs
+- internships
+Example:
+
+Aarav
+BTech CSE, 3rd Year
+Hosteller
+From Delhi
+Languages: Hindi, English
+
+Can discuss:
+Placements, hostel life, campus culture, attendance, transport, expenses
+6. Train seniors before allowing calls
+Give every senior simple rules.
+
+Tell them:
+
+“You are not here to defame or promote the college. You are here to share your real personal experience.”
+
+They should use phrases like:
+
+“In my experience…”
+“From what I personally saw…”
+“In my department…”
+“For my batch…”
+“I can’t verify official numbers, but…”
+They should avoid:
+
+“The college is a scam.”
+“Placements are fake.”
+“The hostel owner steals money.”
+“The management is corrupt.”
+“Everyone here regrets joining.”
+This protects you and also makes the conversation more trustworthy.
+
+7. Create your first offer
+Do not overcomplicate pricing.
+
+Start with one simple offer:
+
+₹149 for a 15-minute call with a verified UPES senior
+Senior gets: ₹80–₹100
+Platform keeps: ₹49–₹69
+
+Also test:
+
+₹299 Parent Call
+A slightly more structured call for parents.
+
+For example:
+
+Speak with a verified current UPES student about hostel, safety, placements, expenses, transport, and campus life before admission.
+
+Later you can add:
+
+₹99 student call
+₹199 standard call
+₹499 comparison pack
+₹999 parent decision pack
+But for now, one simple offer is enough.
+
+8. Create a landing page
+Your landing page should answer five questions quickly.
+
+Headline
+Talk to verified UPES seniors before taking admission.
+
+Subheadline
+Get first-hand student perspectives on placements, hostels, faculty, campus life, transport, expenses, and daily reality.
+
+Trust points
+Verified current students
+15-minute private call
+Parent-friendly
+No college affiliation
+Personal experience, not official advice
+How it works
+1. Choose your concern
+2. Pick a senior
+3. Pay and book a 15-minute call
+4. Ask your questions directly
+CTA
+Book a call
+
+Also add:
+
+Independent platform. Not affiliated with UPES.
+
+9. Talk to 50 prospective students before selling heavily
+Before you push sales, do customer discovery.
+
+Ask students/parents:
+
+Which colleges are you considering?
+What are you most confused about?
+What information do you not trust online?
+Have you tried talking to current students?
+Would you pay ₹149 to talk to a verified senior?
+Would your parents pay for this?
+What would make you trust the senior?
+What questions would you ask in a 15-minute call?
+Would you want one senior or multiple seniors?
+Which college do you want this for apart from UPES?
+Do not pitch too early. Listen.
+
+Your goal is to find repeated pain.
+
+If 30 out of 50 people ask about placements, hostel, hidden expenses, and safety, you know your core topics.
+
+10. Then sell manually
+After discovery, start selling.
+
+Message format:
+
+Hey, since you’re considering UPES, we’re testing a small service where you can speak to verified current UPES students before taking admission. You can ask about placements, hostel, campus life, expenses, transport, faculty, and anything else. It’s a 15-minute call for ₹149. Want me to show you available seniors?
+
+Do not say:
+
+Bro, UPES reality jaan lo warna regret hoga.
+
+Keep it professional, especially for parents.
+
+For parents:
+
+Before finalizing admission, we can connect you with a verified current UPES student for a 15-minute call. You can ask about hostel, safety, placements, expenses, transport, and campus environment. The call is independent and based on the student’s personal experience.
+
+11. Track numbers from day one
+Use a spreadsheet.
+
+Track:
+
+Lead name
+Student/parent
+College interested in
+Course interested in
+Source
+Asked questions
+Price offered
+Paid or not
+Senior matched
+Call completed?
+Rating
+Refund?
+Would recommend?
+Wants another college?
+Your key metrics:
+
+Demand metrics
+How many people showed interest?
+How many were willing to pay?
+Which price converted best?
+Student or parent: who pays more easily?
+Supply metrics
+Which seniors get booked?
+Which topics are most requested?
+Which seniors get high ratings?
+Do seniors show up on time?
+Product metrics
+Did the call help?
+Did users ask for another call?
+Did users want other colleges?
+Did users recommend it to friends?
+12. Define success and failure before starting
+Otherwise you’ll fool yourself.
+
+For the first test:
+
+Test size
+Talk to 50 prospective students/parents.
+
+Good signal
+At least 5–10 people pay.
+
+Strong signal
+15+ people pay.
+
+Weak signal
+Many say “nice idea” but nobody pays.
+
+Very strong signal
+People ask:
+
+“Can I talk to someone from VIT/Manipal/SRM too?”
+
+or
+
+“Can you connect me with a female hostel student?”
+
+or
+
+“Can my parents join the call?”
+
+Those are buying-intent signals.
+
+13. Do not build these yet
+Avoid these for now:
+
+mobile app
+complex website
+AI chatbot
+public college rankings
+anonymous review system
+college comparison engine
+call recording system
+paid ads at scale
+formal company registration unless needed
+hiring interns
+approaching colleges for partnerships
+You are too early.
+
+Right now, speed matters more than polish.
+
+14. What you should create this week
+Your first-week founder checklist:
+
+Decide brand name.
+Write one-line positioning.
+Create landing page or Notion page.
+Create senior application form.
+Recruit 20 UPES seniors.
+Verify seniors manually.
+Create senior code of conduct.
+Create buyer booking form.
+Create feedback form.
+Create UPI payment flow.
+Create simple disclaimer.
+Talk to 50 prospective students/parents.
+Try to close first 10 paid calls.
+Record every question users ask.
+Review call feedback.
+Decide whether to continue, change, or kill.
+15. The exact first experiment
+Run this:
+
+Experiment name
+UPES Admission Reality Call Pilot
+
+Offer
+15-minute call with verified UPES senior.
+
+Price
+Test ₹149 first.
+
+Supply
+20 seniors.
+
+Demand target
+50 prospective UPES students/parents.
+
+Goal
+10 paid calls.
+
+Timeline
+7–14 days.
+
+Success criteria
+Continue if:
+
+10+ people pay
+average call rating is 4/5 or higher
+at least 3 users ask for another call or another college
+seniors are willing to continue
+Pause/change if:
+
+people like the idea but refuse to pay
+parents don’t trust the seniors
+seniors are unreliable
+users say free LinkedIn/Instagram is enough
+Kill or pivot if:
+
+after talking to 100 targeted prospects, fewer than 3 pay
+16. The founder mindset right now
+At this stage, do not ask:
+
+“How do we build the full startup?”
+
+Ask:
+
+“What is the smallest test that proves this is worth building?”
+
+That test is not an app.
+
+That test is:
+
+Can you get a stranger to pay ₹149 to speak with a verified senior?
+
+Once that happens repeatedly, then you have a startup.
+
+Until then, you have an idea.
+
+17. Your immediate next move
+Do this in order:
+
+Choose a neutral name.
+Make a one-page landing page.
+Recruit 20 verified UPES seniors.
+Create a booking form.
+Find 50 prospective UPES students/parents.
+Sell 10 calls manually.
+Collect feedback.
+Study what questions people actually ask.
+Decide the next college only after UPES works.
+The most important thing right now:
+
+Don’t build. Sell manually first.
+
+That’s how you’ll know whether the market is real.
+
+split all the work in 4 people and give them role
+Here’s a clean 4-founder role split for your current idea-stage startup.
+
+Think of the startup as having 4 departments:
+
+Demand / Sales
+Supply / Senior Network
+Operations / Calls / Payments
+Product / Brand / Legal Safety
+Each founder owns one.
+
+Founder 1: Demand & Sales Lead
+Main job
+Bring prospective students and parents who may pay for calls.
+
+This founder is responsible for proving:
+
+“Will people actually pay for this?”
+
+Responsibilities
+Find Class 12 students considering UPES/private colleges.
+Reach out to parents and students.
+Join admission-related WhatsApp, Telegram, Instagram, Reddit, and coaching groups.
+DM people commenting under UPES/private college admission posts.
+Talk to school juniors, coaching students, education counselors, etc.
+Sell the first 10–50 calls manually.
+Understand what students and parents are most worried about.
+Track which messages convert best.
+Daily tasks
+Contact 30–50 leads daily.
+Have 5–10 proper conversations daily.
+Try closing paid calls.
+Note objections like:
+“Why should I pay?”
+“Can’t I ask someone on LinkedIn?”
+“How do I know the senior is real?”
+“Can my parents join?”
+Send interested leads to Founder 3 for booking.
+Key metrics
+Number of leads contacted
+Number of interested people
+Number of paid bookings
+Conversion rate
+Most requested colleges/courses
+Most common questions
+Best type of person for this role
+Someone who is confident, good at talking, not shy to DM people, persuasive, and can handle rejection.
+
+Founder 2: Supply & Senior Network Lead
+Main job
+Recruit and manage verified seniors.
+
+This founder is responsible for proving:
+
+“Can we create a reliable network of students who can give valuable calls?”
+
+Responsibilities
+Recruit 20–30 UPES seniors.
+Verify their course, year, and college identity.
+Categorize them by:
+course
+year
+hostel/day scholar
+gender, if voluntarily shared
+home state
+placement/internship experience
+topics they can discuss
+Train seniors on what to say and what not to say legally.
+Make sure seniors show up on time.
+Remove unreliable seniors.
+Collect availability from seniors.
+Build trust with seniors so they stay active.
+Daily tasks
+Talk to 5–10 potential seniors.
+Verify new seniors.
+Update senior availability.
+Check senior ratings after calls.
+Follow up with seniors who missed calls.
+Train seniors using basic guidelines.
+Key metrics
+Number of verified seniors
+Number of active seniors
+Senior no-show rate
+Average senior rating
+Number of courses covered
+Number of hostellers/day scholars available
+Best type of person for this role
+Someone who has a good network inside college, is respected by seniors, organized, and can judge whether a person is reliable.
+
+Founder 3: Operations, Booking & Payments Lead
+Main job
+Make sure every paid call actually happens smoothly.
+
+This founder owns the full process after someone says:
+
+“Yes, I want to book.”
+
+Responsibilities
+Manage booking forms.
+Collect UPI payments.
+Match user with the right senior.
+Schedule calls.
+Send Google Meet links.
+Remind both sides before the call.
+Track call completion.
+Handle cancellations, no-shows, and refunds.
+Pay seniors after completed calls.
+Maintain the master Google Sheet.
+Collect post-call feedback.
+Daily tasks
+Check new bookings.
+Confirm payments.
+Assign seniors.
+Send reminders.
+Track completed calls.
+Send feedback forms.
+Pay seniors.
+Update dashboard.
+Key metrics
+Number of calls booked
+Number of calls completed
+No-show rate
+Refund rate
+Payment success rate
+Average call rating
+Repeat-call requests
+Best type of person for this role
+Someone disciplined, reliable, detail-oriented, and good at managing chaos. This person should not forget things.
+
+Founder 4: Product, Brand & Legal Safety Lead
+Main job
+Build the face of the startup and keep it legally/brand safe.
+
+This founder owns:
+
+“How does the startup look, feel, explain itself, and protect itself?”
+
+Responsibilities
+Create the landing page.
+Create senior profile cards.
+Write website copy.
+Create Instagram/Canva creatives.
+Create disclaimers.
+Create senior code of conduct.
+Create buyer terms.
+Create complaint form.
+Ensure the startup does not look like it is officially affiliated with UPES.
+Avoid risky language like “scam,” “fake,” “exposed,” etc.
+Design feedback forms and user journey.
+Build early product flow before an actual app.
+Daily tasks
+Improve landing page.
+Create social media content.
+Update senior cards.
+Write better sales scripts.
+Review public copy for legal risk.
+Improve user trust signals.
+Analyze feedback and suggest product changes.
+Key metrics
+Landing page conversion
+Trust level from users
+Number of booking form submissions
+Social media reach
+Feedback quality
+Complaint issues
+Brand clarity
+Best type of person for this role
+Someone who can write well, design decently, think strategically, and understand risk.
+
+Simple role names
+Use these titles:
+
+Founder 1: Demand & Sales Lead
+Founder 2: Senior Network Lead
+Founder 3: Operations & Payments Lead
+Founder 4: Product, Brand & Legal Lead
+How the 4 founders work together
+The flow should look like this:
+
+Founder 1 finds interested student/parent
+        ↓
+Founder 3 collects payment and books call
+        ↓
+Founder 2 provides suitable verified senior
+        ↓
+Founder 3 runs call operation
+        ↓
+Founder 4 improves page, trust, scripts, and legal safety
+        ↓
+All founders review feedback and improve model
+Weekly founder meeting structure
+Meet once every week and review only these things:
+
+1. Demand
+Founder 1 reports:
+
+How many leads contacted?
+How many interested?
+How many paid?
+What objections came up?
+2. Supply
+Founder 2 reports:
+
+How many verified seniors?
+Which courses are missing?
+Any senior complaints?
+Any no-shows?
+3. Operations
+Founder 3 reports:
+
+How many calls booked?
+How many completed?
+How many refunds?
+Average rating?
+4. Product/Brand
+Founder 4 reports:
+
+What changed on landing page?
+What posts worked?
+Any legal/trust issues?
+What feedback patterns appeared?
+Then decide:
+
+Continue, change, or stop?
+
+First 14-day target for each founder
+Founder 1: Demand & Sales
+Target:
+
+Talk to 50 prospective students/parents.
+Get at least 10 paid bookings or serious payment intent.
+Founder 2: Senior Network
+Target:
+
+Recruit 20 verified UPES seniors.
+Cover at least 5 categories:
+CSE
+Law
+Business
+Design
+Hostel/day scholar
+Founder 3: Operations
+Target:
+
+Set up Google Form, Google Sheet, UPI process, Google Meet flow, feedback form.
+Successfully complete first 10 calls without chaos.
+Founder 4: Product/Brand/Legal
+Target:
+
+Make landing page.
+Make senior profile cards.
+Write disclaimers.
+Make Instagram/WhatsApp pitch creatives.
+Create senior code of conduct.
+What each founder should own permanently
+Founder 1 owns revenue.
+If people are not paying, Founder 1 must find out why.
+
+Founder 2 owns quality of seniors.
+If seniors are bad, unreliable, fake, or biased, Founder 2 is responsible.
+
+Founder 3 owns execution.
+If payments, scheduling, or calls are messy, Founder 3 is responsible.
+
+Founder 4 owns trust.
+If users don’t understand the service, don’t trust it, or the language creates legal risk, Founder 4 is responsible.
+
+Most important rule
+Do not make everyone do everything.
+
+That causes confusion.
+
+Each founder should have one clear ownership area.
+
+But in the first month, everyone should still help with selling because the biggest question is:
+
+Will anyone pay?
+
+So the actual priority order is:
+
+Sell calls.
+Recruit seniors.
+Complete calls smoothly.
+Learn from feedback.
+Improve the product.
+Not app. Not logo. Not pitch deck. Not company registration.
+
+First prove demand.
+
+alright frame questions for 
+1 juniors
+2 seniors
+Here are the question sets you need.
+
+Use them for customer discovery, not just feedback. The goal is to understand whether juniors/parents actually have pain and whether seniors are willing to participate.
+
+1. Questions for juniors / incoming students
+These are for Class 12 passed students, droppers, or students deciding between private colleges.
+
+A. Basic background
+Which course are you planning to take?
+Which colleges are you currently considering?
+Have you already applied to any colleges?
+Have you received admission offers from any college?
+Who is more involved in the decision: you, your parents, or both?
+What is your approximate total budget for college fees, hostel, and living expenses?
+Are you planning to stay in hostel, PG, flat, or with relatives?
+B. Decision confusion
+What is your biggest confusion right now while choosing a college?
+Which college are you leaning towards currently, and why?
+Which college are you unsure about, and why?
+What would make you reject a college even after getting admission?
+What information do you feel colleges do not clearly tell students before admission?
+What are you most scared of regretting after joining a college?
+C. Trust and information sources
+Where are you currently getting information from?
+YouTube
+College website
+Admissions counselor
+Relatives
+Friends
+LinkedIn
+Reddit/Quora
+Instagram
+College students
+Which source do you trust the most?
+Which source do you trust the least?
+Have you tried talking to a current student from that college?
+If yes, how did you find them?
+If no, why not?
+Would you trust a verified current student more than a college counselor?
+D. Topics they care about
+What would you ask a current student if you had 15 minutes with them?
+Rank these topics from most important to least important:
+placements
+internships
+faculty
+hostel
+food
+campus life
+safety
+transport
+attendance rules
+clubs/events
+dating/social life
+nightlife
+expenses
+crowd quality
+ragging
+drugs/alcohol culture
+Are placements your biggest concern?
+Are hostel and safety major concerns for your parents?
+Do you care more about college life or career outcome?
+What hidden costs are you worried about?
+Would you want to talk to a senior from your same course specifically?
+Would you prefer a senior from the same home state/city?
+Would you prefer a male/female senior for comfort reasons?
+Would your parents want to join the call?
+E. Willingness to pay
+Would you pay to talk to a verified current student before admission?
+What price feels reasonable for a 15-minute call?
+₹49
+₹99
+₹149
+₹199
+₹299
+₹499
+At what price would you say, “This is too expensive”?
+Would your parents be more willing to pay than you?
+Would you pay more to talk to a final-year student?
+Would you pay more to talk to someone already placed?
+Would you pay more to talk to a hosteller?
+Would you buy a package where you can speak to seniors from 3 different colleges?
+Would ₹499 for 3 college calls feel reasonable?
+Would you want a refund if the call was not useful?
+F. Product preference
+Would you prefer chat, voice call, or video call?
+Is 15 minutes enough?
+Would you want an option to extend the call?
+Would you want to choose the senior yourself or let us match you?
+What senior details would you want to see before booking?
+Would ratings/reviews of seniors matter to you?
+Would you want a list of suggested questions before the call?
+Would you want a summary after the call?
+Would you be comfortable paying online through UPI?
+What would make you trust this platform?
+G. Closing question
+If this service existed today, would you book a call before finalizing admission?
+Which college would you want to ask about first?
+Can we connect you to a verified senior and test this with you?
+This last question is important. Don’t just ask hypothetically. Try to convert them.
+
+2. Questions for seniors
+These are for current college students who may become paid mentors.
+
+A. Basic background
+Which college are you currently studying in?
+Which course and branch?
+Which year/semester?
+Are you a hosteller, day scholar, PG student, or flat resident?
+Which city/state are you from?
+Which languages are you comfortable speaking in?
+Are you comfortable speaking with both students and parents?
+Have you completed any internships?
+Have you sat for placements or interacted with the placement cell?
+Are you comfortable showing proof that you are a current student?
+B. Experience quality
+What topics can you confidently talk about?
+placements
+internships
+faculty
+hostel
+mess food
+campus life
+attendance
+clubs/events
+transport
+city life
+expenses
+safety
+scholarships
+course difficulty
+Which topics should we not assign to you?
+What do you wish you knew before joining this college?
+What are the top 3 good things about your college?
+What are the top 3 disappointing things?
+Would you recommend your college to a junior in the same course?
+For which type of student is this college a good fit?
+For which type of student is this college not a good fit?
+What do students usually misunderstand before joining?
+What are the most common problems freshers face?
+C. Reliability and communication
+Are you comfortable doing 15-minute calls?
+How many calls per week can you take?
+What time slots are usually convenient for you?
+Are you comfortable joining calls on Google Meet?
+Can you commit to being on time?
+Are you okay with calls being scheduled in advance?
+Would you prefer voice-only or video calls?
+Are you comfortable if parents ask direct questions?
+Can you stay calm if a parent asks something sensitive?
+Are you comfortable saying “I don’t know” instead of guessing?
+D. Legal/safety understanding
+Are you comfortable sharing only your personal experience?
+Do you understand that you should avoid making unsupported allegations?
+Are you okay avoiding words like “scam,” “fake,” “fraud,” or “corrupt” unless there is strong proof?
+Can you frame statements as “in my experience” rather than universal facts?
+Are you comfortable not sharing private information about professors, students, hostel owners, or staff?
+Are you okay not revealing confidential college documents?
+Are you okay not pretending to represent the college officially?
+Are you okay with a basic code of conduct?
+Are you okay being removed if users repeatedly complain about misleading information?
+Are you okay not bypassing the platform by sharing your personal number for paid follow-ups?
+E. Payment expectations
+What amount would make a 15-minute call worth your time?
+₹50
+₹75
+₹100
+₹150
+₹200
+Would you be okay starting at ₹80–₹100 per completed call?
+Would you be more interested if high-rated seniors earned more?
+Would you prefer weekly payouts or per-call payouts?
+Would you be okay with payment only after call completion?
+Would you want bonuses for good ratings?
+Would you refer other reliable seniors if this worked?
+What would make you stop participating?
+F. Quality control
+What kind of juniors/parents would you not want to speak with?
+What questions do you think juniors will ask the most?
+What questions would be uncomfortable for you?
+What information should we give juniors before the call?
+What rules should we set for callers?
+What should happen if a caller is rude or abusive?
+What should happen if a senior misses a call?
+What should happen if a senior gives clearly false information?
+Should we allow users to rate seniors after the call?
+What rating system would feel fair?
+G. Closing question
+Would you join this as one of our first verified seniors?
+Can we list your profile for a pilot call?
+Can you give us 3 available slots this week?
+Can you refer 2–3 other trustworthy seniors?
+Again, the last questions are important. You are not just collecting opinions. You are trying to recruit supply.
+
+Best short version for field use
+When you are actually talking to people, don’t ask all 60 questions. Use this shorter version.
+
+Junior quick interview
+Which colleges are you considering?
+What are you most confused or worried about?
+Have you spoken to any current student there?
+What would you ask a senior if you got 15 minutes?
+Would you pay ₹149 for a verified senior call?
+Would your parents join or pay?
+Which senior would you trust most: same course, final year, hosteller, placed student, or same city?
+Would you book a call this week?
+Senior quick interview
+Course, year, hostel/day scholar?
+What topics can you confidently talk about?
+Are you comfortable speaking with juniors/parents for 15 minutes?
+Would ₹80–₹100 per completed call be acceptable initially?
+Are you okay following basic legal/safety guidelines?
+How many calls can you take per week?
+Can we verify and list your profile for the pilot?
+Can you refer other reliable seniors?
+Use the long version for deep research. Use the short version for fast validation.
+
+
+
+
